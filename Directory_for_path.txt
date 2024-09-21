@@ -1,0 +1,3 @@
+cmd.exe /c python "C:\Users\dweep\Desktop\MLOps_Project\Elden_ring_automation\Rune_farm_auto.py"
+
+cmd.exe /c python "C:\Users\dweep\Desktop\MLOps_Project\Elden_ring_automation\Mohgwyn_Rune_farm.py"
